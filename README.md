@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats Preview Card Github] (https://github.com/atharvpote/Stats-Preview-Card)
+- Solution URL: [Stats Preview Card Github](https://github.com/atharvpote/Stats-Preview-Card)
 - Live Site URL: [Stats Preview Card](https://atharvpote.github.io/Stats-Preview-Card/)
 
 ## My process
